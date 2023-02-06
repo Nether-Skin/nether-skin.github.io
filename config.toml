@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Nether Skin'
+theme = ["nether-theme", "hugo-cite"]
+sectionPagesMenu = "main"

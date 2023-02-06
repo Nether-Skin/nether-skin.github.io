@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article>
+  <section class="meta">
+<h1>{{ .Title }}</h1>
+{{ partial "metadata.html" . }}
+</section>
+<section class="article_content">
+{{ .Content }}
+</section>
+</article>
+{{ end }}
