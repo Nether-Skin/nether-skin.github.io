@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nether-skin.github.io/'
 languageCode = 'en-us'
 title = 'Nether Skin'
 theme = ["nether-theme", "hugo-cite"]
