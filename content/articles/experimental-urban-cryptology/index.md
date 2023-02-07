@@ -3,7 +3,7 @@ title: "Yes Future. Experimental Urban Cryptology"
 date: 2023-02-04T02:26:10+01:00
 draft: false
 author: "Lisa Bador"
-tags: ["north", "fiction"]
+tags: ["paris", "urban"]
 issue: 1
 ---
 
