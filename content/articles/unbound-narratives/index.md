@@ -14,11 +14,10 @@ bibFile: bib.json
 
 First things first: It is not this essay's mission to discredit, harm,
 or conjure up the demise of any authors, as suggested (and done) by
-writers before me. An example: In *The Death of the Author* (1967),[^1]
-Roland Barthes strongly condemns the oversaturated presence of authors
+writers before me. An example: In *The Death of the Author*, Roland Barthes strongly condemns the oversaturated presence of authors
 in their work, proclaiming that writing inevitably becomes irreducible
 to the person(s) it was produced by. Consequently, for Barthes, "the
-author enters his \[sic\] own death".[^2]
+author enters his \[sic\] own death".{{< cite "BarthesDeathAuthor1967" 4 >}}
 
 Like many Western writers and thinkers of his time, however, Barthes can
 be accused of having fallen into the trap of hyperbolic expression and
