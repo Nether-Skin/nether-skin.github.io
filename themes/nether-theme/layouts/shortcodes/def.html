@@ -1,0 +1,4 @@
+<div class="def">
+  <dt> {{ with .Get "t" }} {{ . }} {{ end }} </dt>
+  <dd> {{ with .Get "d" | markdownify }} {{ . }} {{ end }} </dd>
+</div>

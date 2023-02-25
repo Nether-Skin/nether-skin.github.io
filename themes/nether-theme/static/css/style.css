@@ -37,7 +37,7 @@ nav a.home {
 }
 
 #content {
-  width: 66%;
+  /* width: 66%; */
 }
 
 a {
@@ -125,4 +125,9 @@ article section.article_content {
 article .hugo-cite-group .hugo-cite-citation {
   background-color: #000000;
 
+}
+
+.hugo-cite-intext {
+  font-style: normal;
+  color: #fefefe5c;
 }

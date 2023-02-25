@@ -5,6 +5,7 @@ draft: false
 author: "Ringo Lukas"
 tags: ["narratives", "fiction"]
 issue: 1
+bibFile: bib.json
 ---
 
 > Words that bless the eye that reads them, 
