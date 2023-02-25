@@ -1,0 +1,7 @@
+{{- $n := .Ordinal -}}
+<input type="checkbox" id="fn{{$n}}" class="inline-footnote" />
+<label for="fn{{$n}}"><sup></sup></label>
+<span><br><br>
+  {{ with .Get 0 }} {{ . }} {{ end }} 
+  <br><br>
+</span>

@@ -34,7 +34,14 @@ acceptable, even useful in regards of (literary) rhetoric -- and
 potentially reversible --, proclaiming the death of someone with whom
 little or no such realities are shared will all too quickly shed a light
 on the proclaimer's own observative and reflective limitedness, exposing
-the megalomania of reading the particular as the universal.[^3]
+the megalomania of reading the particular as the universal.[^3] {{<fn `Interestingly, Barthes himself, in his "Structural Analysis",
+    comments on the transcultural ubiquity of narrative. As Dwidedi,
+    Nielsen and Walsh point out, however, this ubiquity is initially
+    presented as a problem rather than a welcomed diversity (as which it
+    is commonly and rightfully celebrated today): "The numberless
+    instances of narrative", as they describe Barthes' perspective on
+    the topic, "made empirical inquiry an unfeasable approach to the
+    theory of narrative as such \[...\]" {{< cite "DwivediNarratologyIdeologyNegotiating2018" 3 >}}` >}} 
 
 In the course of this essay, many texts, stories and other narratives
 created by a wide range of authors (and others) will be revisited, many
