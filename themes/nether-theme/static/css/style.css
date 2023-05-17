@@ -3,11 +3,27 @@ body {
   background-image:
     /* url(/res/44.gradients.ray.st.png), */
     url(/res/darqdesert_skin.png);
-  background-blend-mode:
-    difference;
+  /* background-blend-mode:
+    difference; */
   background-size: cover;
   color: white;
-  font-family: "Palatino", serif;
+  /* font-family: "Palatino", serif; */
+  /* font-family: 'Space Mono', monospace; */
+  /* font-family: 'Courier New', monospace; */
+  font-family: 'CMU Typewriter Text';
+  /* font-family: 'CMU Serif'; */
+  width: 100vw;
+
+  transition: background-image 0.5s;
+}
+
+header#nav-border {
+  position: sticky;
+  top: 0px;
+  background: black;
+  width: 100%;
+  margin: 0;
+  z-index: 100;
 }
 
 blockquote {
@@ -16,9 +32,26 @@ blockquote {
 
 }
 
-h1, h2, h3, h4 h5 {
+h1, h2, h3, h4, h5 {
   font-family: "Cinzel Decorative";
+  letter-spacing: -1px;
   /* mix-blend-mode: difference; */
+}
+
+article h2 {
+  position: relative;
+}
+
+.section_ordinal {
+  font-weight: 100;
+  font-size: 61%;
+  position: absolute;
+  /* top: -10; */
+  left: -3em;
+}
+
+.section_ordinal::after {
+  content: " .";
 }
 
 nav {
@@ -28,7 +61,7 @@ nav {
 
 nav a {
   font-family: "Cinzel";
-  color: red;
+  /* color: red; */
 }
 
 nav a.home {
@@ -112,11 +145,21 @@ article section.article_content {
   background-position: 0px 0px;
   background-image: linear-gradient(90deg, #0D0B0FFF 0%, #0D0B0FFF 59%, #073AFF00 100%); */
 
-  backdrop-filter: brightness(50%) contrast(70%) blur(2px);
+  /* backdrop-filter: brightness(50%) contrast(70%) blur(2px); */
+
+  /* background: black; */
 
 
+}
 
+article section.article_content section.content_section {
+  background: black;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 3em;
+  padding-bottom: 1em;
 
+  margin-bottom: 2em;
 }
 
 
@@ -189,4 +232,20 @@ input[type=checkbox] ~ label:hover {
 input[type=checkbox]:checked ~ label {
     color:red;
     text-decoration:none;
+}
+
+/* backgrounds bador */
+
+body.bg-bador_cryptology_1 {
+  background-image: url(/res/SDparis19c-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+body.bg-bador_cryptology_2 {
+  background-image: url(/res/SDparis19c-2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }

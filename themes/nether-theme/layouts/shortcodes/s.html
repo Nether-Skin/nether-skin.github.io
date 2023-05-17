@@ -1,0 +1,15 @@
+<section class="content_section">
+
+  <header>
+  <h{{ .Get "l" }} id="{{ anchorize (.Get "t") }}">
+  {{/*  <a href="#{{ anchorize (.Get "title") }}">#</a>  */}}
+  <span class="section_ordinal">{{ .Get "o" }}</span>
+  <span class="section_title">{{ .Get "t" }}</span>
+  {{ with .Get "s" }}<span class="section_subtitle">{{ . }} </span>{{ end }}
+  </h{{ .Get "l" }}>
+  </header>
+
+  {{ .Inner }}
+
+
+</section>
