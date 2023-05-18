@@ -1,0 +1,4 @@
+{{ $kwd_array := split (.Get 0) "," }}
+<span class="kwd" data-kwd="{{ range $kwd_array }}{{. }} {{ end }}">
+ {{ .Inner }}
+</span>

@@ -6,18 +6,20 @@ author: "Ringo Lukas"
 tags: ["narratives", "fiction"]
 issue: 1
 bibFile: bib.json
+prefix: "ringo_narratives_"
 ---
 
 > Words that bless the eye that reads them, 
 > Telling of a future beyond the reach of fear.
 > Scroll of Avacyn
 
-First things first: It is not this essay's mission to discredit, harm,
+
+First things first: {{< kwd "death,author" >}}It is not this essay's mission to discredit, harm,
 or conjure up the demise of any authors, as suggested (and done) by
 writers before me. An example: In *The Death of the Author*, Roland Barthes strongly condemns the oversaturated presence of authors
 in their work, proclaiming that writing inevitably becomes irreducible
 to the person(s) it was produced by. Consequently, for Barthes, "the
-author enters his \[sic\] own death".{{< cite "BarthesDeathAuthor1967" 4 >}}
+author enters his \[sic\] own death".{{< cite "BarthesDeathAuthor1967" 4 >}} {{< /kwd >}}
 
 Like many Western writers and thinkers of his time, however, Barthes can
 be accused of having fallen into the trap of hyperbolic expression and

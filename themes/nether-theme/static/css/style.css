@@ -286,3 +286,14 @@ body.bg-bador_cryptology_2 {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+
+/* testing dumb shit */
+
+article p span[data-kwd] {
+  color: red;
+}
+
+article p span[data-kwd] {
+  color: red;
+}
