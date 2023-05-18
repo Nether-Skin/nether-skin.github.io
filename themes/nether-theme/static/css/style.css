@@ -1,11 +1,18 @@
 body {
   background: black;
   background-image:
-    /* url(/res/44.gradients.ray.st.png), */
-    url(/res/darqdesert_skin.png);
-  /* background-blend-mode:
-    difference; */
+    url(/res/darqdesert_skin.png),
+    linear-gradient(
+      rgb(0,0,0),
+      rgb(0,0,0)
+      );
+  background-position: 
+    right 0px top 2em,
+    right 0px top 0px
+    ;
   background-size: cover;
+
+
   color: white;
   /* font-family: "Palatino", serif; */
   /* font-family: 'Space Mono', monospace; */
@@ -17,6 +24,10 @@ body {
   transition: background-image 0.5s;
 }
 
+/* *** *** **** *** ***  */
+/* header and navigation */
+/* *** *** **** *** ***  */
+
 header#nav-border {
   position: sticky;
   top: 0px;
@@ -24,6 +35,35 @@ header#nav-border {
   width: 100%;
   margin: 0;
   z-index: 100;
+}
+
+nav {
+  /* backdrop-filter: blur(6px); */
+  font-size: 1.25em;
+  flex-direction: row-reverse;
+}
+
+nav a {
+  font-family: "Cinzel";
+  /* color: red; */
+}
+
+nav a.nav-link {
+  color: white;
+  background: none;
+  filter: blur(1px);
+  transition: filter 0.2s;
+}
+
+nav a.nav-link:hover {
+  color: white;
+  filter: blur(0.5px);
+  transition: filter 0.2s;
+}
+
+nav a.home {
+  font-family: "Cinzel Decorative";
+
 }
 
 blockquote {
@@ -54,20 +94,7 @@ article h2 {
   content: " .";
 }
 
-nav {
-  /* backdrop-filter: blur(6px); */
-  font-size: 1.5em;
-}
 
-nav a {
-  font-family: "Cinzel";
-  /* color: red; */
-}
-
-nav a.home {
-  font-family: "Cinzel Decorative";
-
-}
 
 #content {
   /* width: 66%; */
@@ -237,14 +264,24 @@ input[type=checkbox]:checked ~ label {
 /* backgrounds bador */
 
 body.bg-bador_cryptology_1 {
-  background-image: url(/res/SDparis19c-1.png);
+  background-image: 
+    url(/res/SDparis19c-1.png),
+    linear-gradient(
+      rgb(0,0,0),
+      rgb(0,0,0)
+      );
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 body.bg-bador_cryptology_2 {
-  background-image: url(/res/SDparis19c-2.png);
+  background-image: 
+    url(/res/SDparis19c-2.png),
+    linear-gradient(
+      rgb(0,0,0),
+      rgb(0,0,0)
+      );
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
