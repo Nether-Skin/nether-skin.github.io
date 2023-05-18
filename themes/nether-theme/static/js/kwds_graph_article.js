@@ -21,38 +21,46 @@ document.addEventListener('DOMContentLoaded', (event) => {
     .style('z-index', 9999)
     .style('pointer-events', 'none');
 
-  // create points for unique keywords
-  const keywordPoints = svg.selectAll(".keywordPoint")
-    .data(uniqueKeywords)
-    .enter().append("circle")
-    .attr("class", "keywordPoint")
-    .attr("cx", window.innerWidth - 100) // 100px from the right
-    .attr("cy", (d, i) => i * 30) // 30px spacing
-    .attr("r", 5)
-    .attr("fill", "red");
+  const updateVisualization = () => {
+    svg.selectAll("*").remove();
 
-  // create points for span elements and connect them with unique keyword points
-  document.querySelectorAll('span.kwd').forEach((span, index) => {
-    const keywords = span.getAttribute('data-kwd').split(' ');
-    const rect = span.getBoundingClientRect();
-    
-    keywords.forEach((keyword) => {
-      const keywordIndex = uniqueKeywords.indexOf(keyword);
+    // create points for unique keywords
+    const keywordPoints = svg.selectAll(".keywordPoint")
+      .data(uniqueKeywords)
+      .enter().append("circle")
+      .attr("class", "keywordPoint")
+      .attr("cx", window.innerWidth - 100) // 100px from the right
+      .attr("cy", (d, i) => i * 30) // 30px spacing
+      .attr("r", 5)
+      .attr("fill", "red");
 
-      const spanPoint = svg.append("circle")
-        .attr("class", "spanPoint")
-        .attr("cx", rect.x)
-        .attr("cy", rect.y)
-        .attr("r", 5)
-        .attr("fill", "blue");
+    // create points for span elements and connect them with unique keyword points
+    document.querySelectorAll('span.kwd').forEach((span, index) => {
+      const keywords = span.getAttribute('data-kwd').split(' ');
+      const rect = span.getBoundingClientRect();
+      
+      keywords.forEach((keyword) => {
+        const keywordIndex = uniqueKeywords.indexOf(keyword);
 
-      const line = svg.append("line")
-        .attr("x1", rect.x)
-        .attr("y1", rect.y)
-        .attr("x2", window.innerWidth - 100)
-        .attr("y2", keywordIndex * 30)
-        .attr("stroke", "black")
-        .attr("stroke-width", 1);
+        const spanPoint = svg.append("circle")
+          .attr("class", "spanPoint")
+          .attr("cx", rect.x)
+          .attr("cy", rect.y)
+          .attr("r", 5)
+          .attr("fill", "blue");
+
+        const line = svg.append("line")
+          .attr("x1", rect.x)
+          .attr("y1", rect.y)
+          .attr("x2", window.innerWidth - 100)
+          .attr("y2", keywordIndex * 30)
+          .attr("stroke", "black")
+          .attr("stroke-width", 1);
+      });
     });
-  });
+  };
+
+  updateVisualization();
+  
+  window.addEventListener('resize', updateVisualization);
 });
