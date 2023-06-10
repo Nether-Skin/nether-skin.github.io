@@ -73,7 +73,7 @@ devoid of any creating, spectating or otherwise interfering human traces
 shall remain -- *unbound narratives*. What exactly these remains look
 like is then to be unfolded.
 
-A problem: There is an unfathomable amount of narratives moving through
+{{< kwd "PSYOPs,mutation" >}}A problem: There is an unfathomable amount of narratives moving through
 and across the worlds we know. Finding a definition that fits them all
 seems to be a near-impossible undertaking: They come from different
 sources, they are spread and read in different ways; some are open to
@@ -84,7 +84,7 @@ literally written in stone); some come with certain agencies
 as sounds, or visuals, or serving other senses; some stay loyal to their
 creators, some get the chance to turn on their creators, some don´t
 remember their creators or seemingly never had any -- some thrive, some
-mutate, some fade away.
+mutate, some fade away.{{< /kwd >}}
 
 In whichever shape, form or circumstance these narratives appear, they
 arguably have some key characteristics in common that shall provide the
