@@ -3,9 +3,15 @@ document.addEventListener('DOMContentLoaded', (event) => {
   let uniqueKeywords = new Set();
 
   // gather unique keywords
-  document.querySelectorAll('span.kwd').forEach((span) => {
-    const keywords = span.getAttribute('data-kwd').split(' ');
-    keywords.forEach((keyword) => uniqueKeywords.add(keyword));
+  document.querySelectorAll('[data-kwd]').forEach((element) => {
+    const keyword = element.getAttribute('data-kwd');
+
+    // If this keyword hasn't been processed yet
+    if (!uniqueKeywords.has(keyword)) {
+      // Add it to our Set of unique keywords
+      uniqueKeywords.add(keyword);      
+    };    
+
   });
 
   uniqueKeywords = Array.from(uniqueKeywords);
@@ -24,13 +30,19 @@ document.addEventListener('DOMContentLoaded', (event) => {
   // create points for unique keywords
   const keywordPoints = svg.selectAll(".keywordPoint")
     .data(uniqueKeywords)
-    .enter().append("circle")
+    .enter()
+    .append("g")
+    .attr("id", function(d, i) { return d; })
+    .append("circle")
     .attr("class", "keywordPoint")
     // .attr("id", )
     .attr("cx", window.innerWidth - 100) // 100px from the right
+    // .attr("cy", (d, i) => i * 30) // 30px spacing
+    // const d = (window.innerHeight / 2);
     .attr("cy", (d, i) => i * 30) // 30px spacing
     .attr("r", 5)
-    .attr("fill", "red");
+    .attr("fill", "red")
+    ;
 
   let spanPoints = [];
   let lines = [];
