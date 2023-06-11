@@ -14,3 +14,9 @@ sectionPagesMenu = "main"
         title = true
     [markup.goldmark.renderer]
       unsafe = true
+[outputs]
+  home = ['HTML', 'RSS']
+  page = ['HTML']
+  # term = ['HTML', 'JSON', 'RSS']
+  # taxonomy = ['json']
+# ignoreErrors = ["error-output-taxonomy"] 

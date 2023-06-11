@@ -1,0 +1,10 @@
+<script>
+  {{ with .Params.tags }}
+  var tagList = [
+    {{ range . }}
+      {{ $href := print (relURL "tags/") (urlize .) }}
+        {{ dict "tagName" . "url" $href | jsonify }}
+    {{ end }}
+    ];
+  {{ end }}
+</script>

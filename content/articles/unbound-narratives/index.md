@@ -73,6 +73,8 @@ place without complications -- only texts, stories, and narratives
 devoid of any creating, spectating or otherwise interfering human traces
 shall remain -- *unbound narratives*. What exactly these remains look
 like is then to be unfolded.
+{data-tag="Unbound Narratives"}
+
 
 {{< kwd "PSYOPs,mutation" >}}A problem: There is an unfathomable amount of narratives moving through
 and across the worlds we know. Finding a definition that fits them all
