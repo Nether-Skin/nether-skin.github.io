@@ -3,7 +3,7 @@ title: "Unbound narratives. A dive."
 date: 2023-02-04T02:26:10+01:00
 draft: false
 author: "Ringo Lukas"
-tags: ["Author", "Death", "Unbound Narratives", "PSYOPs", "Mutation", "Worldbuilding", "Storytelling", "Noosphere", "Anthropos", "Abyss", "Severing", "Epipelagic Waters", "Disenchantment", "Intent", "Witchcraft", "Desire", "Cyclonopedia", "Hidden Writing", "Bastardization", "Disobedience", "Abduction", "Mesopelagic Waters", "Audience Activity", "Narrative Activity", "Dungeons & Dragons", "Dungeon Master", "ARG", "LARP", "Insurrection", "Group-worldings", "Players", "Xeno-excitations", "Inorganic Demons", "Possession", "Changelings", "Abyssopelagic Waters", "Demonic Narrative", "CapitalismVoodoo Economy", "Desert", "The Hadal Zone", "Underworld", "Proliferation", "Forgotten Fantasies", "Heresy", "Tree of Life", "Chronosis", "Goosebumps"]
+tags: ["Author", "Death", "Unbound Narratives", "PSYOPs", "Mutation", "Worldbuilding", "Storytelling", "Noosphere", "Anthropos", "Abyss", "Severing", "Epipelagic Waters", "Disenchantment", "Intent", "Witchcraft", "Desire", "Cyclonopedia", "Hidden Writing", "Bastardization", "Disobedience", "Abduction", "Mesopelagic Waters", "Audience Activity", "Narrative Activity", "Dungeons & Dragons", "Dungeon Master", "ARG", "LARP", "Insurrection", "Group-worldings", "Players", "Xeno-excitations", "Inorganic Demons", "Possession", "Changelings", "Abyssopelagic Waters", "Demonic Narrative", "Capitalism", "Voodoo Economy", "Desert", "The Hadal Zone", "Underworld", "Proliferation", "Forgotten Fantasies", "Heresy", "Tree of Life", "Chronosis", "Goosebumps"]
 issue: 1
 bibFile: bib.json
 prefix: "ringo_narratives_"
@@ -14,12 +14,13 @@ prefix: "ringo_narratives_"
 > Scroll of Avacyn
 
 
-First things first: {{< kwd "death,author" >}}It is not this essay's mission to discredit, harm,
+First things first: It is not this essay's mission to discredit, harm,
 or conjure up the demise of any authors, as suggested (and done) by
 writers before me. An example: In *The Death of the Author*, Roland Barthes strongly condemns the oversaturated presence of authors
 in their work, proclaiming that writing inevitably becomes irreducible
 to the person(s) it was produced by. Consequently, for Barthes, "the
-author enters his \[sic\] own death".{{< cite "BarthesDeathAuthor1967" 4 >}} {{< /kwd >}}
+author enters his \[sic\] own death".{{< cite "BarthesDeathAuthor1967" 4 >}} 
+{data-tag="Death, Author"}
 
 Like many Western writers and thinkers of his time, however, Barthes can
 be accused of having fallen into the trap of hyperbolic expression and
