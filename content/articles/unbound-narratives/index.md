@@ -76,7 +76,7 @@ like is then to be unfolded.
 {data-tag="Unbound Narratives"}
 
 
-{{< kwd "PSYOPs,mutation" >}}A problem: There is an unfathomable amount of narratives moving through
+A problem: There is an unfathomable amount of narratives moving through
 and across the worlds we know. Finding a definition that fits them all
 seems to be a near-impossible undertaking: They come from different
 sources, they are spread and read in different ways; some are open to
@@ -87,7 +87,9 @@ literally written in stone); some come with certain agencies
 as sounds, or visuals, or serving other senses; some stay loyal to their
 creators, some get the chance to turn on their creators, some don´t
 remember their creators or seemingly never had any -- some thrive, some
-mutate, some fade away.{{< /kwd >}}
+mutate, some fade away.
+{data-tag="PSYOPs, Mutation"}
+
 
 In whichever shape, form or circumstance these narratives appear, they
 arguably have some key characteristics in common that shall provide the
@@ -109,6 +111,7 @@ is characterized as "another global ensemble, that of human activities
 produced by the brain (from language, art, culture, religion, technique,
 and sciences, to civilization as the material traces of these activities
 that precisely cannot be reduced to the biosphere)."[^7]
+{data-tag="Worldbuilding, Storytelling, Noosphere"}
 
 It is the sum of all these worlds and universes, this sphere of
 cognitive production, resulting in corporeal and physical as well as in
@@ -130,8 +133,9 @@ independent and unwitnessed proliferation be reached? For the sake of
 the experiment, it will be assumed that narratives are very much able to
 move beyond the reach of the Anthropos: like a stone tossed into deep
 waters, sinking out of sight and towards an unknown, inhuman abyss.
+{data-tag="Anthropos, Abyss, Severing"}
 
-## Authors and Narratives: Epipelagic Waters, 1^st^ Surgical Intervention
+## Authors and Narratives: Epipelagic Waters, 1^st^ Surgical Intervention {data-tag="Epipelagic Waters"}
 
 When looking at the links between authors and narratives, we are
 primarily confronted with a *question of control*: Tracing a narrative
@@ -156,6 +160,7 @@ no necessary directive effect on the agents (demons) that did cause the
 magical result. They merely signified the *witch's desire*"[^13] --
 meaning: the effect of any spell, whatever it is, relies on the person
 casting it.
+{data-tag="Disenchantment, Intent, Witchcraft"}
 
 Following this logic, not only spells and incantations, but all forms of
 narratives can be stripped of their potential essential effectiveness
@@ -166,6 +171,7 @@ stories -- are reduced to being instruments of authorial agency: They
 become nothing more and nothing less than a will (socially, politically,
 spiritually or elsewise anchored) transported between the willing and an
 audience (of whatever kind) -- a *transmission of desire*.
+{data-tag="Desire"}
 
 Consequently, the author assumes a somewhat godlike position in relation
 to their narratives, making any attempt of severing the link between
@@ -204,6 +210,7 @@ narratives -- is not only a *possibility* of disobedience, but a
 effects of said plots and narratives: Taking a narrative away from its
 source becomes an important step in unlocking its own narratological
 powers.[^20]
+{data-tag="Cyclonopedia, Hidden Writing, Bastardization, Disobedience, Abduction"}
 
 There is, of course, both productive and destructive examples of
 narrative abductions: Whilst some narratives can (and should) be given
@@ -230,7 +237,8 @@ Additionally, this is not only the case for writing, but for other kinds
 of narratives as well*.* This conclusion, now, leads to the follow-up
 question: Where do these narratives go after their escape?
 
-## Narratives and Audiences: Mesopelagic Waters, 2^nd^ Surgical Intervention
+## Narratives and Audiences: Mesopelagic Waters, 2^nd^ Surgical Intervention {data-tag="Mesopelagic Waters"}
+
 
 There are two ways of looking at the movement of narratives after they
 are separated from their origins: The first one grants control to the
@@ -240,6 +248,7 @@ passivity -- this is the level of *audience activity*. The second one
 grants control to the narratives themselves, viewing their audiences
 merely as passive hosts subjectable to possession and as a means of
 transportation -- this is the level of *narrative activity*.
+{data-tag="Audience Activity, Narrative Activity"}
 
 Countless examples illustrate the lives of narratives within the arena
 of audience activity. For our purposes, a fitting one comes in the shape
@@ -263,6 +272,7 @@ way, the narrative progressively detaches from its author, wandering of
 into the reach of influence of different agents; the author loses
 control and shares it with X amount of others -- in Negarestani's words,
 a *changing of the story* occurs.[^22]
+{data-tag="Dungeons & Dragons, Dungeon Master"}
 
 *D&D* is an example for a narrative without any physical, material
 reality attached to it; the core idea of the game is that it is played
@@ -293,6 +303,8 @@ frontiers solidified -- *The Insurrection* as a fiction became a
 material actuality through the shared performance of it.[^28] The
 original author may be long gone; the narrative has made its way into
 reality via audience activity.[^29]
+{data-tag="ARG, LARP, Insurrection"}
+
 
 What these narratives and their summoned worlds have in common is that
 they are based on certain make-believe rules agreed on by the
@@ -314,6 +326,7 @@ new characters, run by new players; not an unbound narrative yet, but
 one gaining the ability to go through (and survive) processes of de- and
 rebinding; a clear increase in narrative flexibility and adaptability; a
 narrative slowly waking up.[^34]
+<!-- CONTINUE DATA TAGGING HERE -->
 
 An ever-advancing *detachment of value systems from reality* shines
 through in all this. Whether it happens via (more or less) harmless

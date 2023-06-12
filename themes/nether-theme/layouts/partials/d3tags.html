@@ -3,7 +3,7 @@
   var tagList = [
     {{ range . }}
       {{ $href := print (relURL "tags/") (urlize .) }}
-        {{ dict "tagName" . "url" $href | jsonify }}
+      {{ dict "tagName" . "url" $href | jsonify }}
     {{ end }}
     ];
   {{ end }}
