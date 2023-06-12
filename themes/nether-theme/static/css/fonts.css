@@ -1,0 +1,43 @@
+/* CMU Typerwriter Text */
+
+@font-face {
+  font-family: "CMU Typewriter Text";
+  src: url('/res/fonts/cmuntt.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CMU Typewriter Text";
+  src: url('/res/fonts/cmunbtl.ttf') format('truetype');
+  font-weight: light;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CMU Typewriter Text";
+  src: url('/res/fonts/cmunbto.ttf') format('truetype');
+  font-weight: light;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "CMU Typewriter Text";
+  src: url('/res/fonts/cmunit.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "CMU Typewriter Text";
+  src: url('/res/fonts/cmuntb.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CMU Typewriter Text";
+  src: url('/res/fonts/cmuntx.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
