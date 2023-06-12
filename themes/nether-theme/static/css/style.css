@@ -306,12 +306,17 @@ body#ringo_narratives_ {
 
 body#ringo_narratives_ article section.article_content {
   background-image:
-    linear-gradient(
+  linear-gradient(
+    hwb(9 81% 14% / 0.645),
+    hwb(15 77% 15%)
+    ),
+  linear-gradient(
       #d8c9c4,
       #d8c9c4
       ),
       url(/res/sdclip_1960s-paper.png);
   background-blend-mode: 
+      luminosity,
       color,
       normal;
   
@@ -327,12 +332,18 @@ body#ringo_narratives_ article section.article_content > * {
 }
 
 body#ringo_narratives_ article section.meta {
+  backdrop-filter: unset;
 
 }
 
 body#ringo_narratives_ article section.meta h1,
 body#ringo_narratives_ article section.meta .author {
   color: #c62d02;
+
+  background: unset;
+  background-clip: border-box;
+  background-clip: unset;
+  -webkit-text-fill-color: unset;
   
 }
 
