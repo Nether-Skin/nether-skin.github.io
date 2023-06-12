@@ -61,14 +61,15 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
       const textPoint = svg.append("circle")
         .attr("class", "textPoint")
-        .attr("cx", rect.x)
+        .attr("cx", rect.right)
         .attr("cy", rect.y)
         .attr("r", 5)
+        .attr("data-refd-tag", keyword)
         .attr("fill", "blue");
       textPoints.push(textPoint);
 
       const line = svg.append("line")
-        .attr("x1", rect.x)
+        .attr("x1", rect.right)
         .attr("y1", rect.y)
         .attr("x2", window.innerWidth - 100)
         .attr("y2", keywordIndex * 30)
@@ -88,13 +89,13 @@ document.addEventListener('DOMContentLoaded', (event) => {
         // update position of textPoint
         const textPoint = textPoints[index * keywords.length + keywordIndex];
         textPoint
-          .attr("cx", rect.x)
+          .attr("cx", rect.right)
           .attr("cy", rect.y);
 
         // update position of line
         const line = lines[index * keywords.length + keywordIndex];
         line
-          .attr("x1", rect.x)
+          .attr("x1", rect.right)
           .attr("y1", rect.y);
       });
     });

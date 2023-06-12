@@ -290,10 +290,49 @@ body.bg-bador_cryptology_2 {
 
 /* testing dumb shit */
 
-article p span[data-kwd] {
+/* article p span[data-kwd] {
   color: red;
 }
 
 article p span[data-kwd] {
   color: red;
+} */
+
+body#ringo_narratives_ {
+  background-image: none;
+  background-color: #fef088;
+
 }
+
+body#ringo_narratives_ article section.article_content {
+  background-image:
+    linear-gradient(
+      #d8c9c4,
+      #d8c9c4
+      ),
+      url(/res/sdclip_1960s-paper.png);
+  background-blend-mode: 
+      color,
+      normal;
+  
+  background-clip: content-box;
+
+  border: 1px solid #978b57;
+
+  color: black;  
+}
+
+body#ringo_narratives_ article section.article_content > * {
+  margin: 3em;
+}
+
+body#ringo_narratives_ article section.meta {
+
+}
+
+body#ringo_narratives_ article section.meta h1,
+body#ringo_narratives_ article section.meta .author {
+  color: #c62d02;
+  
+}
+
