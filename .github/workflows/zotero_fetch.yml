@@ -1,0 +1,32 @@
+name: Fetch Zotero Collection
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at 00:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Install JQ
+      run: sudo apt-get install jq
+      
+    - name: Fetch Team Output Zotero Collection
+      run: |
+        curl -H "Zotero-API-Key: ${{ secrets.ZOTERO_API_KEY }}" -H "Zotero-API-Version: 3" -o bib_zotero.json "https://api.zotero.org/groups/4966248/items?format=csljson"
+    
+    - name: Extract 'items' array
+      run: |
+        jq '.items' bib_zotero.json > bib_z.json
+    
+    - name: Commit and push if it changed
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
