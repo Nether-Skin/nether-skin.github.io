@@ -1,0 +1,532 @@
+[
+  {
+    "id": "14262203/WF56EE5M",
+    "type": "article",
+    "title": "The colloquium with Reza Negarestani was held on February 25, 2021. It was orga"
+  },
+  {
+    "id": "14262203/GWJEGDMN",
+    "type": "speech",
+    "title": "Research seminar colloquium",
+    "publisher-place": "Humboldt-University Berlin",
+    "genre": "Seminar Colloquium",
+    "event": "Theory-Fiction and Narrative Manipulation: Reza Negarestani’s Cyclonopedia – Complicity with Anonymous Materials",
+    "event-place": "Humboldt-University Berlin",
+    "author": [
+      {
+        "family": "Negarestani",
+        "given": "Reza"
+      },
+      {
+        "family": "Schmöl",
+        "given": "Carmen"
+      },
+      {
+        "family": "Lukas",
+        "given": "Ringo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/7T87XTAU",
+    "type": "motion_picture",
+    "title": "Buffy the Vampire Slayer",
+    "publisher": "Mutant Enemy, Kuzui Enterprises, Sandollar Television",
+    "genre": "Action, Drama, Fantasy",
+    "abstract": "A young woman, destined to slay vampires, demons and other infernal creatures, deals with her life fighting evil, with the help of her friends.",
+    "note": "IMDb ID: tt0118276\nevent-location: United States",
+    "author": [
+      {
+        "family": "Whedon",
+        "given": "Joss"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          3,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/WL6Z6RTZ",
+    "type": "motion_picture",
+    "title": "Westworld",
+    "publisher": "Bad Robot, Jerry Weintraub Productions, Kilter Films",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "abstract": "At the intersection of the near future and the reimagined past, waits a world in which every human appetite can be indulged without consequence.",
+    "note": "IMDb ID: tt0475784\nevent-location: United States",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/3KFPDBL4",
+    "type": "motion_picture",
+    "title": "Matka Joanna od Aniolów",
+    "publisher": "Film Polski Film Agency, Studio Filmowe Kadr",
+    "genre": "Drama, Horror, Mystery",
+    "abstract": "A priest is sent to a small parish in the Polish countryside which is believed to be under demonic possession and there he finds his own temptations awaiting.",
+    "note": "Translated title: Mother Joan of the Angels\nIMDb ID: tt0055153\nevent-location: Poland",
+    "author": [
+      {
+        "family": "Kawalerowicz",
+        "given": "Jerzy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1961,
+          2,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/9SG3DIBG",
+    "type": "motion_picture",
+    "title": "The Devils",
+    "publisher": "Russo Productions",
+    "genre": "Biography, Drama, History",
+    "abstract": "In 17th-century France, Father Urbain Grandier&apos;s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually-repressed nun&apos;s accusation of witchcraft.",
+    "note": "IMDb ID: tt0066993\nevent-location: United Kingdom",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "Ken"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1971,
+          7,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/5C972HDI",
+    "type": "broadcast",
+    "title": "Buffy, the Vampire Slayer",
+    "container-title": "Buffy, the Vampire Slayer",
+    "author": [
+      {
+        "family": "Whedon",
+        "given": "Joss"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1997"
+        ]
+      ],
+      "season": "2003"
+    }
+  },
+  {
+    "id": "14262203/AHZSHMPS",
+    "type": "chapter",
+    "title": "Schwester Jeanne des Anges",
+    "container-title": "Memoiren einer Besessenen",
+    "publisher": "Verlag Robert Lutz",
+    "publisher-place": "Stuttgart",
+    "edition": "3",
+    "event-place": "Stuttgart",
+    "URL": "https://www.projekt-gutenberg.org/ewers/bessene/chap002.html",
+    "author": [
+      {
+        "family": "Jeanne",
+        "given": "Soeur"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Ewers",
+        "given": "Hanns Heinz"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Kind",
+        "given": "Alfred"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1919
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/ZDQ5QAXR",
+    "type": "song",
+    "title": "Kayfabe Capital",
+    "collection-title": "NM TopSoil",
+    "URL": "https://www.patreon.com/posts/nm-topsoil-82-64527024",
+    "number": "82",
+    "author": [
+      {
+        "family": "New Models",
+        "given": ""
+      }
+    ]
+  },
+  {
+    "id": "14262203/4PQQJWSZ",
+    "type": "article",
+    "title": "must be a better way to do this – check what is being ci"
+  },
+  {
+    "id": "14262203/QGEXQ4Q7",
+    "type": "song",
+    "title": "Universal Basic Planetary Services Pt. 1+2 (Benjamin Bratton)",
+    "collection-title": "NM POD",
+    "URL": "https://www.patreon.com/posts/nm-pod-38-basic-53094330",
+    "number": "38",
+    "author": [
+      {
+        "family": "New Models",
+        "given": ""
+      }
+    ]
+  },
+  {
+    "id": "14262203/SFMC9G3I",
+    "type": "webpage",
+    "title": "NEW MODELS Discord",
+    "genre": "Discord group",
+    "URL": "https://discord.gg/newmodels",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/TWXSEXLS",
+    "type": "post-weblog",
+    "title": "A Game Designer’s Analysis Of QAnon",
+    "container-title": "curiouserinstitute",
+    "genre": "Medium post",
+    "abstract": "Playing with reality",
+    "URL": "https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5",
+    "language": "en",
+    "author": [
+      {
+        "family": "Rabbit",
+        "given": "Rabbit"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          11
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/9PP6DKRB",
+    "type": "post-weblog",
+    "title": "Actually Existing Accidental Megastructure",
+    "container-title": "@joshuacitarella",
+    "genre": "Instagram post",
+    "abstract": "312 Likes, 4 Comments - Joshua Citarella (@joshuacitarella) on Instagram: \"Actually Existing Accidental Megastructure\nWritten by @ismargohere \nRead by @holly_herndon \n\nA.E.A.M. is a pseudo-ironic term first used by Michael S. Pepinski, the domestic terrorist and literary critic, in his manifesto Against Planetary Domestication: Where and When. It is repeated often by his ideological allies and many critics. An “Accidental Megastructure,” from Christopher Cratchen’s book The Tubes, is a platform composed of different scales of computing technology that resembles a multi-level network architecture stack. Cratchen is critical of the current form of this technical and institutional model, but suggests that this structure can be improved.\n\nThe phrase “Actually-Existing,” from the much-satirized catchphrase Actually-Existing Socialism (see Real Socialism), is used to mock proponents of alternative planetary scale governance models, suggesting that the only possible manifestations of their theory are the deeply flawed stacks they critique.\n\nContents of the Manifesto\n\nAgainst Planetary Domestication starts with Pepinski’s claim: \"Disastrously, many hope that the final consequence of the digital revolution will be the dissolution of the human race.\" Pepinski argues that most people spend their time performing “self- destroying tasks” subliminally demanded by platforms’ designs and incentives; he calls these \"administered desires,\" a category which includes the desires to hold a low-paying and high- output media jobs, to consume artificial or insect-based meat substitutes, and to court the attention of digitally enhanced softcore-pornstars and/or political influencers.\nPepinski argues that the dissolution of human novelty is a natural product of a digital, multilayer system because \"the system has to anticipate human behavior perfectly in order to function,” and that reform of the system isn’t desirable, as a planetary platform with looser restrictions will still track and necessarily anticipate all behavior. He states that the task of those who oppose all accidental and intentional megastructures is to cultivate physical and intellectual strength and perform absurd, one of a kind actions in order to thwart models and algorithms.\"",
+    "URL": "https://www.instagram.com/p/CRZp1E8Ls6S/",
+    "shortTitle": "Joshua Citarella on Instagram",
+    "language": "en",
+    "author": [
+      {
+        "family": "Citarella",
+        "given": "Joshua"
+      },
+      {
+        "family": "Gohere",
+        "given": "Ismar"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          16
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/UHG9JIHF",
+    "type": "article",
+    "title": "kind of unclear - says written by Margo Bergamini"
+  },
+  {
+    "id": "14262203/FZV3EG47",
+    "type": "article",
+    "title": "Snapshot",
+    "URL": "https://www.instagram.com/p/CRZp1E8Ls6S/",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/DWEFGED4",
+    "type": "article",
+    "title": "Snapshot",
+    "URL": "https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/2VNP4S8G",
+    "type": "article",
+    "title": "Law-Abiding Abyss",
+    "note": "Published in this volume",
+    "language": "en",
+    "author": [
+      {
+        "family": "Nieto",
+        "given": "Federico"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/4423JFC2",
+    "type": "book",
+    "title": "Chronosis",
+    "collection-title": "K-Pulp",
+    "publisher": "Urbanomic",
+    "ISBN": "978-1-913029-54-8",
+    "language": "en",
+    "author": [
+      {
+        "family": "Negarestani",
+        "given": "Reza"
+      },
+      {
+        "family": "Tilford",
+        "given": "Keith"
+      },
+      {
+        "family": "Mackay",
+        "given": "Robin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/NUX2IQET",
+    "type": "book",
+    "title": "Cyclonopedia. Complicity with Anonymous Materials",
+    "publisher": "re.press",
+    "publisher-place": "Melbourne",
+    "event-place": "Melbourne",
+    "ISBN": "9780980544008",
+    "language": "en",
+    "author": [
+      {
+        "family": "Negarestani",
+        "given": "Reza"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/KY8AX2ZT",
+    "type": "article-journal",
+    "title": "A Non-Narratable Future? Narrating Climate Change in Contemporary Forms of Storytelling",
+    "container-title": "Diegesis",
+    "volume": "9",
+    "issue": "1",
+    "URL": "https://www.diegesis.uni-wuppertal.de/index.php/diegesis/article/view/368",
+    "language": "en",
+    "author": [
+      {
+        "family": "Meifert-Menhard",
+        "given": "Felicia"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/U5YMK898",
+    "type": "article-magazine",
+    "title": "Worlds Upon Worlds. Unorganized Thoughts on Reality, Religion, and Metaphysical Playgrounds",
+    "container-title": "Sofa Magazine",
+    "volume": "4",
+    "language": "en",
+    "author": [
+      {
+        "family": "Lukas",
+        "given": "Ringo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/D7A4XE22",
+    "type": "book",
+    "title": "Das Fiktive und das Imaginäre. Perspektiven literarischer Anthropologie",
+    "publisher": "Suhrkamp",
+    "publisher-place": "Berlin",
+    "event-place": "Berlin",
+    "language": "de",
+    "author": [
+      {
+        "family": "Iser",
+        "given": "Wolfgang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/WQ8Q3IV9",
+    "type": "book",
+    "title": "Narrative Complexity: Cognition, Embodiment, Evolution",
+    "collection-title": "Frontiers of Narrative",
+    "publisher": "University of Nebraska Press",
+    "ISBN": "9780803296862",
+    "language": "en",
+    "editor": [
+      {
+        "family": "Grishakova",
+        "given": "Marina"
+      },
+      {
+        "family": "Poulaki",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14262203/LBMR5SU3",
+    "type": "book",
+    "title": "Die Leiden des jungen Werthers",
+    "publisher": "Weygand'sche Buchhandlung",
+    "publisher-place": "Leipzig",
+    "event-place": "Leipzig",
+    "language": "de",
+    "author": [
+      {
+        "family": "Goethe",
+        "given": "Johann Wolfgang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1774
+        ]
+      ]
+    }
+  }
+]
