@@ -75,6 +75,7 @@ shall remain -- *unbound narratives*. What exactly these remains look
 like is then to be unfolded.
 {data-tag="Unbound Narratives"}
 
+<!-- maybe up to here-ish the Barthes-inspired design/color (plus the orange flecks from the cover painting for the lines/paths connectors?) -->
 
 A problem: There is an unfathomable amount of narratives moving through
 and across the worlds we know. Finding a definition that fits them all

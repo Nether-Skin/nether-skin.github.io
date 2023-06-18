@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   document.querySelectorAll('[data-tag]').forEach((textualOccurence, index) => {
     const keywords = textualOccurence.getAttribute('data-tag').split(', ');
     const rect = textualOccurence.getBoundingClientRect();
+    rect.anchory = ((rect.bottom - rect.top)/2)+rect.top;
 
     keywords.forEach((keyword) => {
       const keywordIndex = uniqueKeywords.indexOf(keyword);
@@ -62,7 +63,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
       const textPoint = svg.append("circle")
         .attr("class", "textPoint")
         .attr("cx", rect.right)
-        .attr("cy", rect.y)
+        .attr("cy", rect.anchory)
         .attr("r", 5)
         .attr("data-refd-tag", keyword)
         .attr("fill", "blue");
